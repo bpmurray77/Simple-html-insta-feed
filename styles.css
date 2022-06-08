@@ -1,0 +1,28 @@
+body{
+    background-color: lightgrey;
+    margin: 0
+}
+.heading {
+    background-color: white;
+}
+div.post {
+    background: white
+}
+header h1 {
+    margin: 0
+}
+div.container{
+    width: 500px;
+    margin: auto
+}
+.post-header{
+    display: inline-block;
+    background-color: aqua;
+    height: 50px;
+    width: 80%;
+    margin:10px;
+}
+.date{
+    display: inline-block;
+    width: 20%
+}
