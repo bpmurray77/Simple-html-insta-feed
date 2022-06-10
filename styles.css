@@ -15,14 +15,12 @@ div.container{
     width: 500px;
     margin: auto
 }
-.post-header{
-    display: inline-block;
-    background-color: aqua;
-    height: 50px;
-    width: 80%;
-    margin:10px;
+.post{
+    position: relative;
+    top: 21px
 }
-.date{
-    display: inline-block;
-    width: 20%
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
